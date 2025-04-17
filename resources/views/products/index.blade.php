@@ -2,13 +2,13 @@
 
 @section('title', 'Manajemen Produk')
 
-@section('breadcrumb')
+{{-- @section('breadcrumb')
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item active" aria-current="page">Produk</li>
         </ol>
     </nav>
-@endsection
+@endsection --}}
 
 @section('content')
     <div class="card shadow mb-4">
